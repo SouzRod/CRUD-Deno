@@ -1,4 +1,4 @@
-# CRUD com Deno + Dango
+# CRUD using Deno + Dango
 
 That aplication is a CRUD using [deno](https://deno.land/) (runtime javascript) and [dango](https://dangodb.land/) (ODM)
 
